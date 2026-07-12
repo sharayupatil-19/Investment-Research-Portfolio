@@ -12,7 +12,7 @@ Windows personal computers, digital platforms like AppStore to discover and down
 
 ### Product split
 Net sales by category for 2025, 2024, and 2023 (dollars in millions)
-| Product |2025 | 2024 | 2023 |
+| Product | 2025 | 2024 | 2023 |
 |----|----|----|
 | iPhone | 209,586 | 201,183 | 200,583 |
 | Mac | 33,708 | 29,984 | 29,357 |
@@ -34,7 +34,7 @@ The comapny's highest-margin segment is services, with a gross margin of 75.4% i
 | iPhone | 209,586 | 50.36 |
 | Mac | 33,708 | 8.10 |
 | iPad | 28,023 | 6.73 |
-| Wearables, Home and Accessories 35,686 | 8.58 |
+| Wearables, Home and Accessories | 35,686 | 8.58 |
 | Services | 109,158 | 26.23 |
 | Americas | 178,353 | 42.86 |
 | Europe | 111,032 | 26.68 |
