@@ -12,14 +12,14 @@ Windows personal computers, digital platforms like AppStore to discover and down
 
 ### Product split
 Net sales by category for 2025, 2024, and 2023 (dollars in millions)
-| Product |2025 | 2024 | 2023
-| ----|----|----|
-| iPhone | 209,586 | 201,183 | 200,583
-| Mac | 33,708 | 29,984 | 29,357 
-| iPad | 28,023 | 26,694 | 28,300 
-| Wearables, Home and Accessories 35,686 | 37,005 | 39,845 
-| Services (1) | 109,158 | 96,169 | 85,200
-| Total net sales | 416,161 | 391,035 | 383,285 
+| Product |2025 | 2024 | 2023 |
+|----|----|----|
+| iPhone | 209,586 | 201,183 | 200,583 |
+| Mac | 33,708 | 29,984 | 29,357 |
+| iPad | 28,023 | 26,694 | 28,300 |
+| Wearables, Home and Accessories 35,686 | 37,005 | 39,845 |
+| Services (1) | 109,158 | 96,169 | 85,200 |
+| Total net sales | 416,161 | 391,035 | 383,285 |
 (1) Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.
 
 The biggest revenue source is iPhones amounting to 50.36% of total net sales in 2025, which is a 1.08% increase from 2024.
@@ -30,18 +30,18 @@ The comapny's highest-margin segment is services, with a gross margin of 75.4% i
 
 ## 3. Main business segments
 
-| Segment | Revenue | % of total revenue 
-| iPhone | 209,586 | 50.36
-| Mac | 33,708 | 8.10
-| iPad | 28,023 | 6.73
-| Wearables, Home and Accessories 35,686 | 8.58
-| Services | 109,158 | 26.23
-| Americas | 178,353 | 42.86
-| Europe | 111,032 | 26.68
-| Greater China | 64,377 | 15.47
-| Japan | 28,703 | 6.90
-| Rest of Asia Pacific | 33,696 | 8.10
-| Total net sales | 416,161 | 100
+| Segment | Revenue | % of total revenue |
+| iPhone | 209,586 | 50.36 |
+| Mac | 33,708 | 8.10 |
+| iPad | 28,023 | 6.73 |
+| Wearables, Home and Accessories 35,686 | 8.58 |
+| Services | 109,158 | 26.23 |
+| Americas | 178,353 | 42.86 |
+| Europe | 111,032 | 26.68 |
+| Greater China | 64,377 | 15.47 |
+| Japan | 28,703 | 6.90 |
+| Rest of Asia Pacific | 33,696 | 8.10 |
+| Total net sales | 416,161 | 100 |
 
 ## 4. Competitive advantages
 
