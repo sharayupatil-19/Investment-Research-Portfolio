@@ -12,6 +12,7 @@ Windows personal computers, digital platforms like AppStore to discover and down
 
 ### Product split
 Net sales by category for 2025, 2024, and 2023 (dollars in millions)
+
 | Product | 2025 | 2024 | 2023 |
 |----|----|----|
 | iPhone | 209,586 | 201,183 | 200,583 |
@@ -20,6 +21,7 @@ Net sales by category for 2025, 2024, and 2023 (dollars in millions)
 | Wearables, Home and Accessories 35,686 | 37,005 | 39,845 |
 | Services (1) | 109,158 | 96,169 | 85,200 |
 | Total net sales | 416,161 | 391,035 | 383,285 |
+
 (1) Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.
 
 The biggest revenue source is iPhones amounting to 50.36% of total net sales in 2025, which is a 1.08% increase from 2024.
@@ -31,6 +33,7 @@ The comapny's highest-margin segment is services, with a gross margin of 75.4% i
 ## 3. Main business segments
 
 | Segment | Revenue | % of total revenue |
+|----|----|----|
 | iPhone | 209,586 | 50.36 |
 | Mac | 33,708 | 8.10 |
 | iPad | 28,023 | 6.73 |
