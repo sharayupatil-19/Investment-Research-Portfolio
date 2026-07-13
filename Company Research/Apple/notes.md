@@ -14,13 +14,13 @@ Windows personal computers, digital platforms like AppStore to discover and down
 Net sales by category for 2025, 2024, and 2023 (dollars in millions)
 
 | Product | 2025 | 2024 | 2023 |
-|----|----|----|
+|----|----|----|----|
 | iPhone | 209,586 | 201,183 | 200,583 |
 | Mac | 33,708 | 29,984 | 29,357 |
 | iPad | 28,023 | 26,694 | 28,300 |
-| Wearables, Home and Accessories 35,686 | 37,005 | 39,845 |
+| Wearables, Home and Accessories | 35,686 | 37,005 | 39,845 |
 | Services (1) | 109,158 | 96,169 | 85,200 |
-| Total net sales | 416,161 | 391,035 | 383,285 |
+| **Total net sales** | **416,161** | **391,035** | **383,285** |
 
 (1) Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.
 
