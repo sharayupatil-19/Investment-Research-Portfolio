@@ -9,3 +9,13 @@ Why has Apple generated exceptional financial performance for decades while many
 | Apple has switching costs | Existing customers are loyal, proof being increased service revenue and service margin | Form 10K | Competitive advantage |
 | Apple has an expanding services business | Services gross margin of 75.4%, increase of 1.5% since FY2024 and service revenue growth of 14% since last year | Form 10K | Customers use the products and services regularly, generating gauranteed revenue |
 | Apple allocates capital effectively | Apple has a policy of buying back shares to return cash to investors and increase EPS, although it's still allocating a similar percentage of its revenue to R&D- 8.30% and 8.02% in 2024 and 2025 respectively | Form 10-K and consolidated financial statements | Shows company does care about maintaing a high EPS, and that it might mean the R&D efficiency is high. Considering high gross service margin apple might get away with less innovation although the management does believe that they can only survive in the competitive if they can compete with innovative technology. With growth of AI investors would expect apple to invest more in R&D |
+
+Revised Table 
+
+| Competitive Advantage | Evidence | Mechanism | Investor Importance |
+|----|----|----|----|
+| Ecosystem | Integrated hardware, growing services | More integrated products create comfort, increase customer dependence resulting in switching costs | Shows a loyal customer base which can generate recurring revenue and beat competition |
+| Pricing Power | Premium market position, and stable revenue gross margins | Apple is able to charge more for their products without losing customers | Indicates profitability |
+| Switching costs | Multiple devices, iCloud, apps, and device software integration | Switching to a different system could be difficult and time consuming, therefore customers are more likely to continue purchasing Apple's products | Reduces customer churn |
+| Services Growth | 18% revenue growth, 75.4% gross service margin | Existence customer generate revenue | Improves margin growth and earnings |
+| Capital allocation | $89.6bn shares boughtback. Continued R&D investment | Converts cash generated into shareholder profit while still funding growth | Increases shareholder value and shows growth commitment |  
