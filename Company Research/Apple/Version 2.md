@@ -31,17 +31,21 @@ For a company that believes that innovation in technology is essential to surviv
 
 ## Analysis Workflow 
 
-**Business Quality**
+###Business Quality
 - Ecosystem
 - Brand 
 - Switching Cost 
 - Pricing power
+  
 ↓
-**Financial Outcomes**
+
+###Financial Outcomes
 - Reccuring revenue 
 - High margins
-- Strong cash flow 
+- Strong cash flow
+  
 ↓
-**Management decision**
+
+###Management decision
 - Capital allocation 
 
