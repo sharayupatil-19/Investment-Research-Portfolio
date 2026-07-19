@@ -32,16 +32,16 @@ For a company that believes that innovation in technology is essential to surviv
 ## Analysis Workflow 
 
 **Business Quality**
-Ecosystem
-Brand 
-Switching Cost 
-Pricing power
+- Ecosystem
+- Brand 
+- Switching Cost 
+- Pricing power
 ↓
 **Financial Outcomes**
-Reccuring revenue 
-High margins
-Strong cash flow 
+- Reccuring revenue 
+- High margins
+- Strong cash flow 
 ↓
 **Management decision**
-Capital allocation 
+- Capital allocation 
 
