@@ -57,3 +57,5 @@ Apple's survival and growth in the market depends highly on innovation and stayi
 ## 6. Initial investment view
 
 Apple is an attractive comapny due to its competitive advantages. However, the main concerns are dependence on outsource manufacturing and minor global market share. At this stage, my view is that the company will grow steadily because of it's continued commitment to innovation and it's loyal consumer base. 
+
+
