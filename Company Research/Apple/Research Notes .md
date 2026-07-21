@@ -1,6 +1,6 @@
-## Understanding the competitive advantages
+# Understanding the competitive advantages
 
-### Why has Apple generated exceptional financial performance for decades while many competitors have not?
+## Why has Apple generated exceptional financial performance for decades while many competitors have not?
 
 | Claim | Evidence | Source | Why it matters |
 |-----|-----|-----|-----|
@@ -47,9 +47,23 @@ For a company that believes that innovation in technology is essential to surviv
 - Reccuring revenue 
 - High margins
 - Strong cash flow
-  
+
 ↓
 
 ### Management decision
-- Capital allocation 
+- Capital allocation
 
+  
+# Sustainability of Competitive Advantges 
+
+## Research Question
+
+Are Apple's competitive advantages durable?
+
+| Advantage | Why might it exist? | What could weaken it? | What evidence would I need? |
+|---|---|---|---|
+| Ecosystem | | | |
+| Brand | | | |
+| Pricing Power | | | |
+| Services | | | |
+| Switching Costs | | | |
