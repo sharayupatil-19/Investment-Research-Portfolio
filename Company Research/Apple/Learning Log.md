@@ -38,4 +38,9 @@
 
 ### Mistakes I made 
 - Assumed that a consistent 8% investment in R&D is an indicator of weak financial allocation, without finding evidence for it.
-- Letting my assumptions become conclusions without supportive evidence. 
+- Letting my assumptions become conclusions without supportive evidence.
+
+### Skill developed
+- Data cleaning
+- Evaluating company financials
+- Ratio analysis 
