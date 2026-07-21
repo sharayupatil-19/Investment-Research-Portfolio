@@ -1,6 +1,6 @@
-Understanding the Business
+## Understanding the competitive advantages
 
-Why has Apple generated exceptional financial performance for decades while many competitors have not?
+### Why has Apple generated exceptional financial performance for decades while many competitors have not?
 
 | Claim | Evidence | Source | Why it matters |
 |-----|-----|-----|-----|
@@ -10,7 +10,7 @@ Why has Apple generated exceptional financial performance for decades while many
 | Apple has an expanding services business | Services gross margin of 75.4%, increase of 1.5% since FY2024 and service revenue growth of 14% since last year | Form 10K | Customers use the products and services regularly, generating gauranteed revenue |
 | Apple allocates capital effectively | Apple has a policy of buying back shares to return cash to investors and increase EPS, although it's still allocating a similar percentage of its revenue to R&D- 8.30% and 8.02% in 2024 and 2025 respectively | Form 10-K and consolidated financial statements | Shows company does care about maintaing a high EPS, and that it might mean the R&D efficiency is high. Considering high gross service margin apple might get away with less innovation although the management does believe that they can only survive in the competitive if they can compete with innovative technology. With growth of AI investors would expect apple to invest more in R&D |
 
-Revised Table 
+## Revised Table 
 
 | Competitive Advantage | Evidence | Mechanism | Investor Importance |
 |----|----|----|----|
@@ -21,6 +21,8 @@ Revised Table
 | Services Growth | 18% revenue growth, 75.4% gross service margin | Existence customer generate revenue | Improves margin growth and earnings |
 | Capital allocation | $89.6bn shares boughtback. Continued R&D investment | Converts cash generated into shareholder profit while still funding growth | Increases shareholder value and shows growth commitment |  
 
+### Possible Insights 
+
 The company had a line up of products to be launched every quater during the fiscal year 2025, this shows the compnay's trust in demand and profitability with is a result of strong branding. The integrated ecosystem is the company's leverage against competition as it increases switching costs.
 
 The management, however expressed its concern regarding tariffs being imposed in Q2 on China, India, Japan, South Korea, Taiwan, and Vietnam among other countries. They highlighted that retaliatory tariffs and sector tariffs would increase the production cost and reduce internationation demand. But still the America, Japan, Europe, and Rest of Pacific Asia had a net increase in sales compared to FY2024. The Greater China segemnet reported a 4% decrease from FY2024, which still is a 4% increase compared to FY2023. 
@@ -28,6 +30,8 @@ The management, however expressed its concern regarding tariffs being imposed in
 The management also belives that the gross margins would be volatile in the future years mostly because the company's net sales have a majority of international sales which face the tariff pressure. The company also has a complex line of supply, and it currently depends on limited sources for certain components, which exposes it to a lot of international economic and political risk. 
 
 For a company that believes that innovation in technology is essential to survive the competition, a constant 8% R&D expense of sales from FY2023 is concerning. The increase of R&D expense is only driven by increase in the number of units sold. In addition to that management also mentioned that the net sales figure are subject to weak foreign currencies against the dollar, signifying more growth in sales that realised. But managemnet still focuses on buying back stock each year, instead of allocating more capital to R&D. Which could indicate that repurchse of stock could be mostly to increase EPS. 
+
+(Edit- these were a result of my assumptions made into conclusions without evidence) 
 
 ## Analysis Workflow 
 
