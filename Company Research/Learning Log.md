@@ -43,4 +43,13 @@
 ### Skill developed
 - Data cleaning
 - Evaluating company financials
-- Ratio analysis 
+- Ratio analysis
+
+
+## 26th July 2026 
+
+### Project Apple competitive advantage analysis
+
+### What I learned
+- An annual report is not a collection of facts. It is a source of evidence. The role of an analyst is to develop a hypothesis, identify what evidence would support or contradict it, and connect qualitative disclosures with financial outcomes before reaching a conclusion.
+  
