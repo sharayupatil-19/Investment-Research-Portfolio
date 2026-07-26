@@ -62,8 +62,8 @@ Are Apple's competitive advantages durable?
 
 | Advantage | Why might it exist? | What could weaken it? | What evidence would I need? |
 |---|---|---|---|
-| Ecosystem | | | |
-| Brand | | | |
-| Pricing Power | | | |
-| Services | | | |
-| Switching Costs | | | |
+| Ecosystem | Apple develops the entire solution for its prducts- hardware, software, and numerous applications, and each generate revenue. It also develops cloud services which keeps data up to date across all owned devices. This supports the integration claim, and that revenue from the each product goes directly to apple and is not outsourced. | The company mentions risk of not being ahead of the technology and innovation curve, as the market is highly competitive. Therefore, if the company cannot update their software integration in pace with the market, it could loose this advantage. | The company is constantly coming up with new and quality technology, ahead of the competition. Also, that it allocates sufficient funding for R&D and is monitoring the outcomes. |
+| Brand | The company is able to command high price is the market, despite having a minority share in the global smartphone, personal computer, tablet and wearables markets. | Loosing quality and security credibility. | Lawsuits or evidences that could break customer trust. |
+| Pricing Power | The company has a high net profit margin, 25.04% averaging in the last 3 years. | High raw material cost. Company mentioned having limited suppliers for components. Company relies on third party software developers, which may stop supporting if the competion provides more benefit.  | Competition having higher net profit margin and apple's increasing operational costs. |
+| Services | Growing gross service margin of 75.4% in FY2025 | Service quality degrading. Company mentions that with increase in complex technology being used like artificial intelligence, customers have a higher chance of being exposed to safety risks and harmful and inaccurate content. | Service revenue declining, company outsourcing the services that can be used with it's products, or outsourcing the entire service segment. |
+| Switching Costs | The company is able to charge a premium price compared to competition and still has a big customer base. Following 2025, apple boasted a installed base of 2.5 billion active devices. Integrated data and sofware across devices creates convinience which could play a part in increasing switching costs. | Competition coming up with better technology. | Apple continues to upgarde and innovate technology and software, and staying ahead of the competiton. |
