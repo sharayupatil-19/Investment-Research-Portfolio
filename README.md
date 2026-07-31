@@ -19,6 +19,9 @@ Coming soon...
 ### Financial Analysis Projects 
 Coming soon...
 
+## Project Files 
+- [Apple Financial Model](Apple%20Financial%Model20Model.xlsx)
+
 ## Skills 
 - Financial statement analysis
 - Excel
