@@ -26,7 +26,7 @@
 
 - Revenue growth seems to be highly driven by growth in the service segment. This is reducing dependency on sale of hardware to increase margins. 
 - Apple increased CapEx by 34.60% in FY2025 which was associated with building out the private cloud compute environment in Apple’s first-party data centers. This could show results in better AI capability, enhancing the user experience and imporving the ecosystem standards. Apple's ecosystem moat would strenghten leading to customer retention due to increased switching costs that would generate higher service margins in future. 
-- Apple's growing installed base and upgraders supports a growing services ecosystem, increasing margins and reccuring revenue 
+- Apple's growing installed base and upgraders supports a growing services ecosystem, increasing margins and reccuring revenue. 
 
 ## Gross Margin
 
@@ -78,7 +78,7 @@
 ### Investor Importance 
 
 - The management mentioned in the Q4 FY 2023 earnings call that some of the investments that they're making in R&D are one of the drivers of their gross margins expanding. Apple expanded operating margin despite increasing R&D intensity, because the improvement in gross profitability was not fully absorbed by operating expenses.
-- Continued R&D investment may support future product and Services innovation, but the investment will need to generate sufficient incremental revenue or margin improvement to justify the rising expenditure.
+- Continued R&D investment may support future product and services innovation, but the investment will need to generate sufficient incremental revenue or margin improvement to justify the rising expenditure.
 - Apple's operating margin expansion was a result of gross margin rising, particularly due to services which more than offset the increasing investment in R&D, while the SG&A expenses remained stable as a % of revenue. 
 
 ## Net Profit Margin 
@@ -108,7 +108,7 @@
 
 ### Observation 
 
-- The cashflow from operating activites declined 5.76% in FY2025, despite increase in net income while free cash flow declined from its pea in FY2024 but maintained a similar level to FY2023. Cash used in financing activities increased 12.43% in FY2024 and remained broadly stable in FY2025. Cash generated from investing activites increased 417.71% in FY2025 as comapred to the 20.78% decline in FY2024 primarily reflecting lower purchases of marketable securities, while financing cash outflows remained broadly stable.
+- The cashflow from operating activites declined 5.76% in FY2025, despite increase in net income while free cash flow declined from its peak in FY2024 but maintained a similar level to FY2023. Cash used in financing activities increased 12.43% in FY2024 and remained broadly stable in FY2025. Cash generated from investing activites increased 417.71% in FY2025 as comapred to the 20.78% decline in FY2024 primarily reflecting lower purchases of marketable securities, while financing cash outflows remained broadly stable.
 
 ### Evidence   
 
@@ -197,3 +197,31 @@
 - However, the decline in net cash alongside shareholder distributions exceeding FCF should be monitored to assess whether Apple's current capital-return rate remains sustainable without materially reducing financial flexibility. 
  
 ## Overall Financial Health
+
+### Thesis
+
+Apple's financial position is strong because profitability, cash generation, and leverage remain strong, but its financial flexibility and future earnings growth increasingly depend on maintaining hardware competitiveness and disciplined capital allocation.
+
+#### Financial Strength
+
+Apple accounted for $112.010b net income in FY2025, and generated $111.482b of operating cash flow out of which $98.767b was free cash flow. Apple's net income was supported by a growing gross margin driven by the expansion of service margin while products susbtituted >70% of the revenue. The operating margin also grew by 3.68 percentage points, despite increasing R&D expense. Apple generated operating cash flow equivalent to 99.53% of net income in FY2025, 126.16% in FY2024, and 113.97% in FY2023, indicating strong cash conversion despite working-capital movements. The FY2025 ratio was lower because operating cash flow declined against net income due to working capital movements. 
+
+#### Quality of Earnings
+
+Operating cash flow remained broadly aligned with or above net income across the period, indicating that reported earnings were generally supported by cash generation rather than being driven primarily by non-cash accounting effects. The growing service margins indicates that service revenue is growing faster than products revenue. The weak NPM in FY2024 was a result of a one-time tax charge as the gross margin showed growth of 2.08 percentage points and not a decline in revenue. The future growth of service margin depends on the growth of the hardware segment to increase the installed base for reccuring revenue. The product revenue, however, grew 4.12% in FY2025 and contributes to more than 70% of the total revenue. 
+
+#### Capital Allocation & Financial Flexibility
+
+Shareholder distributions exceeded FY2025 free cash flow, while Apple's liquid asset position and term debt position declined, indicating that distributions were not fully funded by current-period free cash flow. The company has effectively reduced its basic share count by 5.05% since FY2023. The company also increased its CapEx by 34.60% in FY2025 and maintained a $41.7b net cash position. Apple is increasing shareholder distributions without losing the net cash position. This should be monitored because sustained distributions above free cash flow could gradually reduce financial flexibility if the pattern persists.
+
+#### Key Risks
+
+- Apple's increasing dependence on service margins might weaken the sustainability of growth because the product revenue growth was -1.08% in FY2024 and -5.73% in FY2023. However the 4.12% growth of FY2025 in hardware revenue is a positive but the declining product revenue as a % of total revenue should be monitored. The growth in service margin is highly dependent on product innovation which facilitates the increase in the installed base and upgraders. A sustained slowdown in product sale could constrain the growing installed bases and therefore limit the consumer base which drive future service growth.
+
+- Apple needs sustained innovation to protect its pricing power, ecosystem and margins, while the cost of innovation is rising. The management did state that the growing margins were supported by their increasing focus on R&D, although a continued ROI is uncertain.
+
+- AThe decline in liquid assets and shareholder distributions exceeding free cash flow reduce financial flexibility at the margin. If this pattern persisted alongside weaker operating cash generation, Apple would have less internally generated liquidity available for investment, debt reduction and shareholder returns.    
+
+### Overall Investor Assessment
+
+Apple is financially strong today, but its future financial strength depends on whether it can continue generating sufficient cash to simultaneously fund innovation, maintain hardware competitiveness, support Services growth and return substantial capital to shareholders.
