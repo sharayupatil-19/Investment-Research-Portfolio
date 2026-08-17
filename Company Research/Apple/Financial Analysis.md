@@ -220,7 +220,7 @@ Shareholder distributions exceeded FY2025 free cash flow, while Apple's liquid a
 
 - Apple needs sustained innovation to protect its pricing power, ecosystem and margins, while the cost of innovation is rising. The management did state that the growing margins were supported by their increasing focus on R&D, although a continued ROI is uncertain.
 
-- AThe decline in liquid assets and shareholder distributions exceeding free cash flow reduce financial flexibility at the margin. If this pattern persisted alongside weaker operating cash generation, Apple would have less internally generated liquidity available for investment, debt reduction and shareholder returns.    
+- The decline in liquid assets and shareholder distributions exceeding free cash flow reduce financial flexibility at the margin. If this pattern persisted alongside weaker operating cash generation, Apple would have less internally generated liquidity available for investment, debt reduction and shareholder returns.    
 
 ### Overall Investor Assessment
 
